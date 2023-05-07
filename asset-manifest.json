@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DragAndDrop-React/static/css/main.b438d7bb.css",
+    "main.js": "/DragAndDrop-React/static/js/main.37978bbd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/DragAndDrop-React/static/js/787.28cb0dcd.chunk.js",
+    "static/media/prof5.png": "/DragAndDrop-React/static/media/prof5.0281d146d22fd59fc622.png",
+    "static/media/prof3.jpg": "/DragAndDrop-React/static/media/prof3.ea9d1a7f8d797c09afdb.jpg",
+    "static/media/prof7.jpg": "/DragAndDrop-React/static/media/prof7.ec875384b25a966b1b4a.jpg",
+    "static/media/prof4.jpg": "/DragAndDrop-React/static/media/prof4.b50148dd24f15c751412.jpg",
+    "static/media/prof9.jpg": "/DragAndDrop-React/static/media/prof9.23cfd074ba42c2ee856f.jpg",
+    "index.html": "/DragAndDrop-React/index.html",
+    "main.b438d7bb.css.map": "/DragAndDrop-React/static/css/main.b438d7bb.css.map",
+    "main.37978bbd.js.map": "/DragAndDrop-React/static/js/main.37978bbd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/DragAndDrop-React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b438d7bb.css",
+    "static/js/main.37978bbd.js"
+  ]
+}
